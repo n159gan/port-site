@@ -21,3 +21,14 @@ img {
 body {
   font-family: 'font', sans-serif;
 }
+
+/* helpers */
+.container {
+  margin: 0 auto;
+  width: 1296px;
+}
+
+/* header */
+.header {
+  padding: 40px 0;
+}
